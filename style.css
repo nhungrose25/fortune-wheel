@@ -6,8 +6,21 @@ html, body {
 }
 
 body {
-	background: #a1a1a1;
+	background: #000000;
 	color: white;
+}
+
+input[type="file"] {
+	color: black;
+}
+
+/* for scaling checkboxes according to the font size */
+.c3-auto-size-checkbox {
+	font-size: 1em;
+	width: 1em;
+	height: 1em;
+	vertical-align: bottom;
+	margin: 0.1em 0.25em;
 }
 
 html, body, canvas {

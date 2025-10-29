@@ -1,11 +1,11 @@
 {
-	"name": "Fortune Wheel v3",
-	"short_name": "Fortune Wheel v3",
+	"name": "Fortune Wheel",
+	"short_name": "Fortune Wheel",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
-	"background_color": "#ffffff",
+	"background_color": "#000000",
 	"icons": [
 		{
 			"src": "icons/icon-16.png",
